@@ -37,6 +37,8 @@ La solución se organiza en seis capas bien definidas para asegurar la separaci�
 * **Mecanismo de Rollback:** En la creación de pedidos, si un artículo falla sus criterios de aceptación, toda la transacción en memoria se cancela para evitar estados inconsistentes.
 * **Persistencia por Baja Lógica:** Los registros eliminados cambian de estado (`eliminado = true`) impidiendo nuevas transacciones pero salvaguardando la integridad histórica de pedidos previos.
 
+
+Video : https://youtu.be/REmQceJZPbc
 ---
 
 ## Instrucciones de Ejecución
