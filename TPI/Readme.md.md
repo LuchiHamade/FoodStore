@@ -39,7 +39,7 @@ La solución se organiza en seis capas bien definidas para asegurar la separaci�
 
 ---
 
-## 🎮 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_U
+   git clone  https://github.com/LuchiHamade/FoodStore
